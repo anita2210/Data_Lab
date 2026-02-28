@@ -1,0 +1,5 @@
+outs:
+- md5: 06769c0a96e9ab07b8d9e2c1255a976b
+  size: 3328203
+  hash: md5
+  path: adult_income.csv

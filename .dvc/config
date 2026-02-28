@@ -1,0 +1,5 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = gs://anita-dvc-lab1
+    credentialpath = C:\Users\Ani\OneDrive\Desktop\Data-Lab\dvc-lab-488805-f0e3de44a3f5.json
