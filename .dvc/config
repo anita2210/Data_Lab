@@ -1,0 +1,5 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = gs://yourname-dvc-lab1
+    credentialpath = C:\full\path\to\your-credentials.json
